@@ -1,0 +1,82 @@
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.exe
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.deps.json
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.runtimeconfig.json
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.pdb
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.AssemblyInfo.cs
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.csproj.CopyComplete
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\refint\ConsoleSignalRClient.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.pdb
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.genruntimeconfig.cache
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ref\ConsoleSignalRClient.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Filip\Desktop\gl\signalr\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.exe
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.deps.json
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.runtimeconfig.json
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\ConsoleSignalRClient.pdb
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\MessagePack.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.csproj.AssemblyReference.cache
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.AssemblyInfoInputs.cache
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.AssemblyInfo.cs
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.csproj.CopyComplete
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\refint\ConsoleSignalRClient.dll
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.pdb
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ConsoleSignalRClient.genruntimeconfig.cache
+C:\Users\adrian\Downloads\Zestaw 1\SignalRServer\ConsoleSignalRTime\obj\Debug\net6.0\ref\ConsoleSignalRClient.dll
